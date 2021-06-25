@@ -1,5 +1,4 @@
 # initialization
 git init
-test
-new line
-next line
+learn how to squash multiple commit
+second updated
